@@ -2,4 +2,4 @@
 
 ## Результат можете посмотреть тут
 
-[Моя первая работа](https://r1flex.github.io/resume/]
+[Моя первая работа](https://r1flex.github.io/resume/)
